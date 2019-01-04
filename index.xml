@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect</title>
+    <title>^_^肥仔John</title>
     <link>/</link>
-    <description>Recent content on Hugo Future Imperfect</description>
+    <description>Recent content on ^_^肥仔John</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Dec 2018 18:31:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First</title>
-      <link>/blog/first/</link>
-      <pubDate>Mon, 31 Dec 2018 18:31:25 +0800</pubDate>
-      
-      <guid>/blog/first/</guid>
-      <description> Hello World </description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>/posts/first/</link>
-      <pubDate>Mon, 31 Dec 2018 18:31:25 +0800</pubDate>
-      
-      <guid>/posts/first/</guid>
-      <description> Hello World </description>
-    </item>
     
     <item>
       <title>Fancy App 1</title>
@@ -116,15 +98,6 @@ With Jekyll, something that looked like&lt;/p&gt;
     ▾ images/
         logo.png
 &lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hugo &#43; GitHub 搭建个人Blog</title>
-      <link>/blog/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/second/</guid>
-      <description>安装Hugo 子昂</description>
     </item>
     
   </channel>
